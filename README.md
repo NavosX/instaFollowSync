@@ -1,2 +1,1 @@
-# instaFollowSync
-Compare instagram following &lt;=> followers.
+A repository to compare Instagram following &lt;=> followers.
